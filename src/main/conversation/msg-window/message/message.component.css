@@ -1,0 +1,16 @@
+.container{
+  display: flex;
+  flex-direction: column;
+}
+.msgtext{
+  font-size: 0.95rem;
+  color: #111b21;
+}
+.time-tick{
+  display: flex;
+  align-self: flex-end;
+  color: #667781;
+}
+.time-tick > img{
+  margin-left: 5px;
+}
